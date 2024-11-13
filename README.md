@@ -1,18 +1,16 @@
-<h1 align="center">Merhaba 👋, Ben [İsminiz]</h1>
+<h1 align="center">Merhaba 👋, Ben Melih</h1>
 <h3 align="center">Tutkulu bir Full Stack Web Developer</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kullanıcıadınız&label=Profile views&color=0e75b6&style=flat" alt="kullanıcıadınız" />
+<img src="https://komarev.com/ghpvc/?username=kurumelih&label=Profile views&color=0e75b6&style=flat" alt="kurumelih" />
 </p>
 
 ---
 
 ### 🚀 Hakkımda
 
-- 🔭 Şu anda **[üzerinde çalıştığınız proje]** üzerinde çalışıyorum
 - 🌱 Sürekli kendimi geliştiriyor ve yeni teknolojiler öğreniyorum
-- 💬 Bana **Web Geliştirme** hakkında soru sorabilirsiniz
-- 📫 Bana ulaşmak için: **mailadresiniz@example.com**
+- 📫 Bana ulaşmak için: **melihkuru66@gmail.com**
 
 ---
 
@@ -33,15 +31,15 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&locale=en&theme=radical" alt="kullanıcıadınız" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurumelih&show_icons=true&locale=en&theme=radical" alt="kurumelih" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kullanıcıadınız&theme=radical" alt="kullanıcıadınız" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurumelih&theme=radical" alt="kurumelih" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kullanıcıadınız&show_icons=true&locale=en&layout=compact&theme=radical" alt="kullanıcıadınız" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurumelih&show_icons=true&locale=en&layout=compact&theme=radical" alt="kurumelih" />
 </p>
 
 ---
@@ -55,4 +53,4 @@
 
 ---
 
-⭐️ From [kullanıcıadınız](https://github.com/kullanıcıadınız)
+⭐️ From kurumelih(https://github.com/kurumelih)
