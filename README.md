@@ -6,11 +6,8 @@
 </p>
 
 ## 🚀 Hakkımda
-
-- 🔭 Şu anda **Web Projeleri** üzerinde çalışıyorum
 - 🌱 Sürekli kendimi geliştiriyor ve yeni teknolojiler öğreniyorum
-- 💬 Bana **Web Geliştirme** hakkında soru sorabilirsiniz
-- 📫 Bana ulaşmak için: **[E-posta adresiniz]**
+- 📫 Bana ulaşmak için: **[melihkuru66@gmail.com]**
 
 ## 🛠 Teknoloji ve Araçlar
 
