@@ -1,56 +1,87 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurumelih/kurumelih/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kurumelih/kurumelih/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kurumelih/kurumelih/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <h1 align="center">Merhaba 👋, Ben Melih</h1>
 <h3 align="center">Tutkulu bir Full Stack Web Developer</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kurumelih&label=Profile views&color=0e75b6&style=flat" alt="kurumelih" />
-</p>
-
----
-
 ### 🚀 Hakkımda
 
+- 🔭 Şu anda **Web Projeleri** üzerinde çalışıyorum
 - 🌱 Sürekli kendimi geliştiriyor ve yeni teknolojiler öğreniyorum
-- 📫 Bana ulaşmak için: **melihkuru66@gmail.com**
-
----
+- 💬 Bana **Web Geliştirme** hakkında soru sorabilirsiniz
+- 📫 Bana ulaşmak için: **[E-posta adresiniz]**
 
 ### 🛠 Teknoloji ve Araçlar
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</p>
-
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,nodejs&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,nodejs&theme=light">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,nodejs&theme=light" alt="Skills">
+  </picture>
+</div>
 
 ### 📊 GitHub İstatistikleri
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurumelih&show_icons=true&locale=en&theme=radical" alt="kurumelih" />
-</p>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=kurumelih&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=kurumelih&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=kurumelih&show_icons=true" />
+  </picture>
+</div>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurumelih&theme=radical" alt="kurumelih" />
-</p>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kurumelih&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=kurumelih"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurumelih" />
+  </picture>
+</div>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurumelih&show_icons=true&locale=en&layout=compact&theme=radical" alt="kurumelih" />
-</p>
-
----
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kurumelih&show_icons=true&locale=en&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kurumelih&show_icons=true&locale=en&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurumelih&show_icons=true&locale=en&layout=compact" />
+  </picture>
+</div>
 
 ### 🤝 Bağlantılar
 
-<p align="left">
-<a href="https://linkedin.com/in/kullanıcıadınız" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kullanıcıadınız" height="30" width="40" /></a>
-<a href="https://twitter.com/kullanıcıadınız" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kullanıcıadınız" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin,twitter,github&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin,twitter,github&theme=light">
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter,github&theme=light" alt="Social Links">
+  </picture>
+</div>
 
----
-
-⭐️ From [kurumelih](https://github.com/kurumelih)
+<div align="center">
+  <a href="https://linkedin.com/in/kurumelih">LinkedIn</a> •
+  <a href="https://twitter.com/kurumelih">Twitter</a> •
+  <a href="https://github.com/kurumelih">GitHub</a>
+</div>
