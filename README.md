@@ -7,7 +7,7 @@
 
 ## 🚀 Hakkımda
 - 🌱 Sürekli kendimi geliştiriyor ve yeni teknolojiler öğreniyorum
-- 📫 Bana ulaşmak için: **melihkuru66@gmail.com**
+- 📫 Bana ulaşmak için: **info@melihkuru.tr**
 
 ## 🛠 Teknoloji ve Araçlar
 
