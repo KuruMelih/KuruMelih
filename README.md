@@ -1,9 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Melih</h1>
-<h3 align="center">Tutkulu bir Full Stack Web Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kurumelih&label=Profile views&color=0e75b6&style=flat" alt="kurumelih" />
-</p>
+<h3 align="center">Tutkulu bir Web Developer</h3>
 
 ## 🚀 Hakkımda
 - 🌱 Sürekli kendimi geliştiriyor ve yeni teknolojiler öğreniyorum
